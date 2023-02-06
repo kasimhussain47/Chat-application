@@ -54,6 +54,8 @@
   width: 20%;
   height: 90%;
   background-color: crimson;
+  position: sticky;
+  margin-top: 5px;
 }
 #sendbtn:hover {
   background-color: rgb(124, 5, 29);
